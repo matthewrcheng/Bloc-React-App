@@ -1,0 +1,18 @@
+.section-container section{
+    height: 100vh;
+    width: 100%;
+}
+
+.section-container section:nth-child(1) {
+    background-color: #fff;
+  }
+.section-container  section:nth-child(3) {
+    background-color: #fff;
+  }
+  /*
+.section-container section:nth-child(4) {
+    background-color: #3e6f6b;
+  }*/
+.section-container section:nth-child(5) {
+    background-color: #fff;
+  }

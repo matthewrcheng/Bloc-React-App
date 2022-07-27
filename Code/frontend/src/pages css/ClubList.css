@@ -1,0 +1,14 @@
+.descriptionBox {
+  transition:visibility 1s, opacity 1s;
+  visibility: hidden;
+  opacity:0;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.clubGrid:hover .descriptionBox{
+  visibility: visible;
+  opacity: 1;    
+} 
+.clubGrid{
+  height: 150%;
+}
