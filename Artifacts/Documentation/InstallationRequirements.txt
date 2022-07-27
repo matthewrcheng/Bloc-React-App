@@ -1,0 +1,15 @@
+1. Clone and pull the repository to your local machine
+2. Open a terminal and navigate to your backend folder and run "npm install"
+3. In the same backend terminal:
+- npm i express
+- npm i -g nodemon
+- npm i dotenv --save
+- npm i pg
+- npm i axios
+- npm i cors
+4. run "nodemon server.js" to start out backend server. You can navigate to "http://localhost:3001" to see where our backend is hosted.
+5. Open another terminal and navigate to the frontend folder and run "npm install"
+6. In the same frontend terminal, run:
+- npm i @mui/material @emotion/react @emotion/styled
+- npm i react-router-dom
+7. Run "npm start" to start the frontend

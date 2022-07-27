@@ -1,0 +1,5 @@
+Here is a link to reactjs which includes tutorials and documentation:
+https://reactjs.org/
+
+This is documentation for PostgreSQL:
+https://www.postgresql.org/docs/

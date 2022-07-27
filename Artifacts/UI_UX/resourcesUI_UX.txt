@@ -1,0 +1,13 @@
+1. https://www.usability.gov/what-and-why/user-interface-design.html
+2. https://developer.mozilla.org/en-US/docs/Web/CSS
+3. https://developer.mozilla.org/en-US/docs/Web/HTML
+
+4. https://uxdesign.cc/5-fundamental-elements-of-interface-design-7d8b8be47044
+5. https://uxplanet.org/7-key-elements-that-great-ux-design-must-have-ad1f121e4038 
+
+6. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+7. https://codepen.io/colby-friedman/pen/ERNqEe
+8. https://dmitripavlutin.com/react-useeffect-explanation/#:~:text=useEffect(callback%2C%20dependencies)%20is,being%20props%20or%20state%20values.
+9. https://www.educative.io/edpresso/what-is-setstate-in-react
+
+

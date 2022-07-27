@@ -1,0 +1,1 @@
+v0.1: For v0.1 prototype, we utilized error log outputs when running the web app for unit testing. We also used inspect element in order to confirm the UI changes that we were making in HTML. 

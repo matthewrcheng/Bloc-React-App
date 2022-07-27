@@ -1,0 +1,5 @@
+1. https://reactjs.org/docs/getting-started.html
+2. https://developer.mozilla.org/en-US/docs/Web/JavaScript
+3. https://www.toptal.com/android/developing-mobile-web-apps-when-why-and-how
+4. https://aws.amazon.com/mobile/mobile-application-development/
+5. Using vscode with gitlab:https://www.youtube.com/watch?v=9oKFPTtyHZg

@@ -1,0 +1,1 @@
+v0.1 - Current functionality: Access to homepage, clubs page, search page, and login page. Ability to login and track login information. SQL database created, and frontend is wired up to it such that data can be accessed from the database and displayed on the frontend. 

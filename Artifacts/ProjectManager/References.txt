@@ -1,0 +1,14 @@
+Here is a useful reference for knowing which gitlab feature corresponds to which artifact:
+https://about.gitlab.com/blog/2018/03/05/gitlab-for-agile-software-development/
+Useful tips on managing a team: https://www.wrike.com/blog/expert-tips-to-get-your-team-to-collaborate-effectively/
+
+
+Basic Summary:
+User Story: Gitlab Issue
+Task: Gitlab Task lists
+Epic: Gitlab Epics
+Points and estimation: Gitlab Weights
+Product Backlog: Gitlab Issue lists and prioritized labels
+Sprint/iteration: Gitlab Milestones
+Burndown Chart: Gitlab Burndown charts
+Agile Board: Gitlab Issue Boards
